@@ -12,3 +12,7 @@ $\color{#788BA2}{\textsf{dry to you, then I probbly got used to talking that way
 <sub> $\color{#788BA2}{\textsf{... I fictkin Sano Kojima, Idm sharing.. maybe iwc tho}}$
 
 </details>
+
+___
+
+<p align="center"><sub><a href="https://serpula-lacrymans.atabook.org/">atabook</a></p>
