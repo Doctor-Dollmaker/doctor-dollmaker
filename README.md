@@ -9,6 +9,6 @@
 <sub> $\color{#788BA2}{\textsf{Hello, I go by the name Sano and I'm 15 years old.}}$ $\color{#788BA2}{\textsf{I'm mostly dry to those I'm not really close to, if I'm still}}$
 $\color{#788BA2}{\textsf{dry to you, then I probbly got used to talking that way w/ you}}$
 
-<sub> $\color{#788BA2}{\textsf{... I fictkin Sano Kojima, Idm sharing..}}$
+<sub> $\color{#788BA2}{\textsf{... I fictkin Sano Kojima, Idm sharing.. maybe iwc tho}}$
 
 </details>
