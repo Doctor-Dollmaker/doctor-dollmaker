@@ -1,6 +1,7 @@
 # <p align="center"> $\color{#95A3B3}{\textsf{ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐}}$
 
 [![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/1000023340-removebg-preview.png)](https://www.youtube.com/watch?v=bo7XBKbTayc)
+<p align="center"> <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_687511627437824.gif" alt="Alt Text" style="width: 300; height: auto;"> <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_687514887218131.gif" alt="Alt Text" style="width: 300; height: auto;">
 
 <details>
   <summary> <p align="center"> $\color{#5A698C}{\textsf{Introduction}}$ </summary>
