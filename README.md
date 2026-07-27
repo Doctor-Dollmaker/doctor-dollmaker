@@ -1,10 +1,10 @@
-# <p align="center"> $\color{#768000}{\textsf{ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐}}$
+# <p align="center"> $\color{#95A3B3}{\textsf{ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐}}$
 
 [![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/1000023340-removebg-preview.png)](https://www.youtube.com/watch?v=bo7XBKbTayc)
 
 <details>
-  <summary> <p align="center"> $\color{#8a3700}{\textsf{Before You Interact}}$ </summary>
+  <summary> <p align="center"> <sub> $\color{#5A698C}{\textsf{Introduction}}$ </summary>
   
-wip hello
+<sub> $\color{#788BA2}{\textsf{Hello, I'm Sano.}}$
 
 </details>
