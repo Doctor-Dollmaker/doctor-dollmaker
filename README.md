@@ -7,3 +7,5 @@ ___
 <p align="center"><sub><a href="https://sano.atabook.org/">atabook</a></p> 
   
 <p align="center"><sub><a href="https://sano-kojima.straw.page/">strawpage</a></p>
+
+<p align="center"><sub><a href="https://github.com/ATHEISTIC-SATANISM">strawpage</a></p>
