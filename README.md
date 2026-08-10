@@ -8,4 +8,4 @@ ___
   
 <p align="center"><sub><a href="https://sano-kojima.straw.page/">strawpage</a></p>
 
-<p align="center"><sub><a href="https://github.com/ATHEISTIC-SATANISM">strawpage</a></p>
+<p align="center"><sub><a href="https://github.com/ATHEISTIC-SATANISM">main</a></p>
