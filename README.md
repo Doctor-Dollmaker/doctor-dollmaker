@@ -8,4 +8,4 @@ ___
   
 <p align="center"><sub><a href="https://sano-kojima.straw.page/">strawpage</a></p>
 
-<p align="center"><sub><a href="https://github.com/alcoholicbevrage">main</a></p>
+<p align="center"><sub><a href="https://github.com/Firewall-Destroyer-9000">main</a></p>
