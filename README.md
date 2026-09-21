@@ -12,4 +12,4 @@ Again, no spamming otherwise you'll get ignored and please let us know if we add
 
 <p align="right"> -Rasmus </p>
 
-<p align="right"><sub>the word appreciate mentioned count: 5 (6 if this included)</sub></p>
+<p align="right"><sub>the word appreciate mentioned count: 7 (8 if this included)</sub></p>
