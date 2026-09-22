@@ -8,7 +8,7 @@ Links:
 
 [Send Your Appreciation Letter](https://github.com/appreciation-pt) ,, [Remove Someone](https://github.com/WilliamAftonsWorkshop)
 
-Again, no spamming otherwise you'll get ignored and please let us know if we added someone preblematic.
+Again, no spamming otherwise you'll be ignored and please let us know if we added someone preblematic.
 
 <p align="right"> -Rasmus </p>
 
